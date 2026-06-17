@@ -1,5 +1,5 @@
 title: Relay messenger
-description: Native macOS desktop client for Meta Messenger and WhatsApp Web.
+description: Native macOS desktop client for Meta Messenger, WhatsApp Web, and Telegram Web.
 url: https://lubos-buracinsky.github.io
 baseurl: /relay-messenger-support
 theme: jekyll-theme-cayman
