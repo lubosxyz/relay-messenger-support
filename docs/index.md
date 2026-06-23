@@ -40,7 +40,7 @@ Read the full [Privacy Policy](./privacy/).
 
 ## Source
 
-[github.com/lubos-buracinsky/relay-messenger](https://github.com/lubos-buracinsky/relay-messenger)
+[github.com/lubosxyz/supersonic-messenger](https://github.com/lubosxyz/supersonic-messenger)
 
 ---
 
