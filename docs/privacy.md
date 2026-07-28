@@ -19,6 +19,8 @@ We do not collect **personal data**. Chat data stays inside the official web ses
 
 **None.** We do not collect, transmit, sell, or share any personal data. We do not run analytics. We do not run telemetry. We do not have a server.
 
+For Apple's App Store privacy label, data collected through the embedded services is declared as third-party collection because those WebViews provide the app's primary functionality. Provider-side collection is governed by each provider's privacy policy and is not available to the Relay messenger developer.
+
 ## Data stored locally on your Mac
 
 When you sign in to Meta Messenger, WhatsApp Web, or Telegram Web inside Relay messenger, the official sites store the same data they would store in any browser:
