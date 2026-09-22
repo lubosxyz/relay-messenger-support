@@ -1,0 +1,4 @@
+# Local agent configuration: pins a per-repo gbrain home. Machine-specific,
+# and a public repo has no business carrying anyone filesystem layout.
+.mcp.json
+.gbrain-source
